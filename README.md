@@ -1,5 +1,4 @@
 # Google-IT-Automation-With-Python-Professional-Certificate
-My notes for the Google IT Automation with Python Professional Certificate
 
 ## [Course 1 - Crash Course on Python](https://github.com/DotRawr1/Google-IT-Automation-With-Python-Professional-Certificate/tree/main/1%20-%20Crash%20Course%20on%20Python)
 - ### [Week 1 - Intro to Python](https://github.com/DotRawr1/Google-IT-Automation-With-Python-Professional-Certificate/tree/main/1%20-%20Crash%20Course%20on%20Python/Week-1)
